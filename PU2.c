@@ -10,7 +10,7 @@ scanf("%d", &dec);
 for(i=0; dec>0; i++){
 
 a[i]=dec%2;
-dec /= 2;
+dec = dec >> 1;
 }
 
 printf("\n");
