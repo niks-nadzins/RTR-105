@@ -4,13 +4,13 @@ int main(){
 	
 	char let1, let2, let3;
 	
-	printf("Ievadi trîs burtus: ");
+	printf("Ievadi trÄ«s burtus: ");
 	scanf("%c %c %c", &let1, &let2, &let3);
 
 	int order;
 	
-	printf("Augoğa secîba: 1\n");
-	printf("Dilstoğa secîba: 0\n");
+	printf("AugoÅ¡a secÄ«ba: 1\n");
+	printf("DilstoÅ¡a secÄ«ba: 0\n");
 	scanf("%d", &order);
 	
 	if(let2 <= let1){
