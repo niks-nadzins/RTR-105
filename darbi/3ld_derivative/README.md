@@ -3,4 +3,6 @@ Algoritms ir ļoti vienkāršs. Atvasinājums pēc definīcijas ir limits funkci
 
 **Grafiki** - https://github.com/niks-nadzins/RTR-105/blob/main/darbi/3ld_derivative/ld3photofixed.png
 
+**Programmas izvade** - https://github.com/niks-nadzins/RTR-105/blob/main/darbi/3ld_derivative/3ld_exit.png
+
 **Funkcijas attēls** - https://github.com/niks-nadzins/RTR-105/blob/main/darbi/1ld_series/sinh.png
