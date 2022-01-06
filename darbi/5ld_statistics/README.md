@@ -13,3 +13,5 @@ Otrā ciklā tiek noteikts, kuriem simboliem biežums sakrīt ar maksimālo vēr
 
 **Histogramma** - https://github.com/niks-nadzins/RTR-105/blob/main/darbi/5ld_statistics/ld5photo.png
 
+**Programmas izvade** - https://github.com/niks-nadzins/RTR-105/blob/main/darbi/5ld_statistics/5ld_exit.png
+
