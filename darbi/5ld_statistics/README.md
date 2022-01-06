@@ -11,5 +11,5 @@ Funkcija izveido divus masīvus. Vienā masīvā tiek saglabāti unikālie simbo
 Moda tiek noteikta iekšpus histogram funkcijas. Pirmajā ciklā tiek sameklēta biežuma masīva maksimālā vērtība to salīdzinot ar masīva elementiem un nomainot, ja atrodas lielāka.
 Otrā ciklā tiek noteikts, kuriem simboliem biežums sakrīt ar maksimālo vērtību. Ja tie sakrīt, tie tiek izvadīti.
 
-Histogramma - 
+Histogramma - https://github.com/niks-nadzins/RTR-105/blob/main/darbi/5ld_statistics/ld5photo.png
 
