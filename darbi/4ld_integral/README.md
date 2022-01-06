@@ -9,6 +9,6 @@ Simpsona metode ir nākamais loģiskais solis. Linēaru funkciju vietā tiek lie
 ## Piezīme
 Vēl prezīcākus rezultātus var iegūt, ja interpolē vēl augstākas pakāpes polinomus. Polinomi ir visvienkāršākās funkcijas, kuras var analītiski itegrēt. Iegūt vispārīgās itegrāļu formulas jebkuras pakāpes polinomam ir vienkārši. Pastāv funkcijas, kurām analītiski noteikt integrāli ir neiespējami vai ļoti grūti. Piemēram, normālsadalījuma līknei analītiski noteikt integrāli ir matemātiski neiespējami, tāpēc skaitliskās metodes ir vienīgais veids kā to izdarīt. Lietojot augstākas pakāpes polinomus ir iespējams ievērojami samazināt iterāciju skaitu un tāpat panākt precīzākus rezultātus.
 
-Piemēra bilde - 
+Piemēra bilde - https://github.com/niks-nadzins/RTR-105/blob/main/darbi/4ld_integral/ld4photo.png
 
 Funkcijas attēls - 
