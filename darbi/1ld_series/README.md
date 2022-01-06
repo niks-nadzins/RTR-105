@@ -3,6 +3,6 @@ Algoritms strādā balstoties uz Teilora rindām. Dotajai funkcijai sinh(x) Teil
 
 **Funkcijas bilde** - https://github.com/niks-nadzins/RTR-105/blob/main/darbi/1ld_series/sinh.png
 
-**Programmas izvade** - 
+**Programmas izvade** - https://github.com/niks-nadzins/RTR-105/blob/main/darbi/1ld_series/1ld_exit.png
 
 **Piezīme.** Es saprotu, ka vērtības varēja iegūt ar long double datu tipu, bet manā programmēšanas vidē tas nestrādāja mistisku iemeslu dēļ.
