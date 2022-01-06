@@ -4,7 +4,7 @@ Metode var arī risināt f(x) = c. Vienkārši apskata funkciju g(x) = f(x) - c.
 
 **Piemēra bilde** - https://github.com/niks-nadzins/RTR-105/blob/main/darbi/ld2_roots/ld2photo.png
 
-**Programmas izvade** - 
+**Programmas izvade** - https://github.com/niks-nadzins/RTR-105/blob/main/darbi/ld2_roots/ld2_exit.png
 
 **Funkcijas attēls** - https://github.com/niks-nadzins/RTR-105/blob/main/darbi/1ld_series/sinh.png
 
