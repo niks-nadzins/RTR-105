@@ -11,4 +11,4 @@ Vēl prezīcākus rezultātus var iegūt, ja interpolē vēl augstākas pakāpes
 
 Piemēra bilde - https://github.com/niks-nadzins/RTR-105/blob/main/darbi/4ld_integral/ld4photo.png
 
-Funkcijas attēls - 
+Funkcijas attēls - https://github.com/niks-nadzins/RTR-105/blob/main/darbi/1ld_series/sinh.png
