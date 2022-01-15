@@ -10,6 +10,7 @@ int main(){
 	scanf("%lf\n", &a);
 	scanf("%lf\n", &b);
 	scanf("%lf", &c);
+	printf("Ievadi delta_x: \n");
 	scanf("%lf", &delta_x);
 	
 	funkca = sinh(a)-c;
